@@ -1,5 +1,5 @@
 alert ("Pakistan")
-
+ x = 6;
  y = 6;
 var z = x + y;
-console.log("202")
+console.log("")
