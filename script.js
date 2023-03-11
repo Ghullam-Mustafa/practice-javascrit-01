@@ -4,5 +4,14 @@ console.log(one * two);
 
 var num = 2;
 var floatingData = 2.4;
-var floatingdataran
 console.log(num,floatingData)
+var one = 5;
+var two = 5;
+console.log(one+two);
+
+// var one = 1100;
+// var two = 586;
+// console.log(one+two);
+// console.log(one*two);
+// console.log(one/two);
+// console.log(one%two);
