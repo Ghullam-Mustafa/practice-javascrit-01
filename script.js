@@ -12,6 +12,6 @@ console.log(one+two);
 var one = 1100;
 var two = 586;
 console.log(one+two);
-// console.log(one*two);
+console.log(one*two);
 // console.log(one/two);
 // console.log(one%two);
