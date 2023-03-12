@@ -14,4 +14,4 @@ var two = 586;
 console.log(one+two);
 console.log(one*two);
 console.log(one/two);
-// console.log(one%two);
+console.log(one%two);
