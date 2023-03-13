@@ -18,3 +18,5 @@ console.log(one%two);
 
 var string = `cdcd`
 console.log(string)
+
+var floating = 46845.3484
