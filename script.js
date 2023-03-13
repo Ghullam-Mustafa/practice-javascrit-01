@@ -15,3 +15,6 @@ console.log(one+two);
 console.log(one*two);
 console.log(one/two);
 console.log(one%two);
+
+var string = `cdcd`
+// console.log(string)
