@@ -23,4 +23,5 @@ var floating = 46845.3484
 console.log(floating)
 
 var cancadinaton = "8"
+console.log(cancadinaton+6)
 
