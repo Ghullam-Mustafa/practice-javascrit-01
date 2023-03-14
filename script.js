@@ -30,3 +30,5 @@ console.log(string)
 
 var floating = 46845.3484
 console.log(floating)
+
+var cancadinaton = "8"
