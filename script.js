@@ -53,3 +53,4 @@ var cancadinaton = "8"
 console.log(cancadinaton+6)
 
 var string = `cdcd`
+console.log(string)
