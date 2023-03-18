@@ -60,3 +60,6 @@ console.log(floating)
 
 var cancadinaton = "8"
 console.log(cancadinaton+6)
+
+var add = 4 > 3 ;
+console.log(add)
