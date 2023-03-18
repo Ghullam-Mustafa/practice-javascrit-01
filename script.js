@@ -63,3 +63,6 @@ console.log(cancadinaton+6)
 
 var add = 4 > 3 ;
 console.log(add)
+
+var add1 = 5 < 3 ;
+console.log(add1)
