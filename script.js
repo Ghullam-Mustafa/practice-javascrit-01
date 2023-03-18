@@ -66,3 +66,6 @@ console.log(add)
 
 var add1 = 5 < 3 ;
 console.log(add1)
+
+var add2 = prompt("enter any ")
+console.log(add2 > 5)
