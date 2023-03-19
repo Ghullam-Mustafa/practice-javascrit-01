@@ -76,15 +76,15 @@ console.log(add3 < 5)
 document.write("he")
 
 
-// var userNumber = prompt("Enter a Number")
-// if (userNumber == 10) {
-//     console.log(10)
-// }
+var userNumber = prompt("Enter a Number")
+if (userNumber == 10) {
+    console.log(10)
+}
 
-// var inputUser =+ prompt("Enter a number");
-// if (inputUser >=0) {
-//   alert(inputUser);
-// }
+var inputUser =+ prompt("Enter a number");
+if (inputUser >=0) {
+  alert(inputUser);
+}
 
 // var inputvalue1 = prompt("enter value 1")
 // var inputvalue2 = prompt("enter value 2")
