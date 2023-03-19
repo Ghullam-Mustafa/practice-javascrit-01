@@ -72,3 +72,5 @@ console.log(add2 > 5)
 
 var add3 = prompt("enter any ")
 console.log(add3 < 5)
+
+document.write("he")
