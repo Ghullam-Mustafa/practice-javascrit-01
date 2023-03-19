@@ -74,3 +74,11 @@
 // console.log(add3 < 5)
 
 // document.write("he")
+
+
+var userNumber = prompt("Enter a Number")
+if (userNumber == 10) {
+    console.log(10)
+}
+
+// var inputUser =+ prompt("")
