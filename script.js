@@ -86,8 +86,8 @@ if (inputUser >=0) {
   alert(inputUser);
 }
 
-var inputvalue1 = prompt("enter value 1")
-var inputvalue2 = prompt("enter value 2")
-if (inputvalue1 == inputvalue2){
-    alert(inputvalue1,inputvalue2);
-}
+// var inputvalue1 = prompt("enter value 1")
+// var inputvalue2 = prompt("enter value 2")
+// if (inputvalue1 == inputvalue2){
+//     alert(inputvalue1,inputvalue2);
+// }
