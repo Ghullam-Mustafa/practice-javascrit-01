@@ -99,3 +99,6 @@ if (inputvalue1 == inputvalue2){
 }
 
 var inputUser =+ prompt("Enter a number");
+if (inputUser >=0) {
+  alert(inputUser);
+}
