@@ -139,3 +139,8 @@ var inputvalue2 = prompt("enter value 2")
 if (inputvalue1 == inputvalue2){
   alert(inputvalue1,inputvalue2);
 }
+
+var inputUser =+ prompt("Enter a number");
+if (inputUser >=0) {
+  alert(inputUser);
+}
