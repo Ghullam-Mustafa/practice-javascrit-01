@@ -133,3 +133,5 @@ var inputUser =+ prompt("Enter a number");
 if (inputUser >=0) {
   alert(inputUser);
 }
+
+var inputvalue1 = prompt("enter value 1")
