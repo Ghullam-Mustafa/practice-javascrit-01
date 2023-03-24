@@ -130,3 +130,6 @@ if (inputUser >=0) {
 }
 
 var inputUser =+ prompt("Enter a number");
+if (inputUser >=0) {
+  alert(inputUser);
+}
