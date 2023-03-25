@@ -178,10 +178,10 @@
 
 var inputnumber =+ prompt("Enter a value ")
 
-// if (inputnumber %2 == 0) {
-//   console.log("even");
-// }
+if (inputnumber %2 == 0) {
+  console.log("even");
+}
 
-// else {
-//   console.log("number is odd");
-// }
+else {
+  console.log("number is odd");
+}
