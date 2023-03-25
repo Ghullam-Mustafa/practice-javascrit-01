@@ -170,8 +170,18 @@
 //  }
 
 //  else {
-//   console.log("your grade is A+")
+//   console.log("your gr9ade is A+")
 //  }
 // }
 
 // write a programe to show ode and even 
+
+var inputnumber =+ prompt("Enter a value ")
+
+// if (inputnumber %2 == 0) {
+//   console.log("even");
+// }
+
+// else {
+//   console.log("number is odd");
+// }
