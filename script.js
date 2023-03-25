@@ -173,3 +173,5 @@
 //   console.log("your grade is A+")
 //  }
 // }
+
+// write a programe to show ode and even 
