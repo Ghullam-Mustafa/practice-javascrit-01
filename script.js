@@ -144,3 +144,30 @@
 // if (inputUser >=0) {
 //   alert(inputUser);
 // }
+
+{ 
+ var usrsscore =+ prompt("Enter  score")
+ if (usrsscore < 50) {
+  console.log("you are fail");
+ }
+
+ else if (usrsscore < 60) {
+  console.log("your grade is D");
+ }
+
+ else if (usrsscore < 70) {
+  console.log("your grade is C");
+ }
+
+ else if (usrsscore < 80) {
+  console.log("your grade is B");
+ }
+
+ else if (usrsscore < 90) {
+  console.log("your grade is A");
+ }
+
+ else {
+  console.log("your grade is A+")
+ }
+}
