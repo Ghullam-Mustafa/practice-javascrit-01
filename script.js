@@ -175,7 +175,7 @@
 // }
 
 // write a programe to show ode and even 
-
+{
 var inputnumber =+ prompt("Enter a value ")
 
 if (inputnumber %2 == 0) {
@@ -184,4 +184,5 @@ if (inputnumber %2 == 0) {
 
 else {
   console.log("number is odd");
+}
 }
