@@ -203,3 +203,14 @@
 
 // name()
 
+
+// write a js programme, input two value from user on function
+
+function sum(number1, number2) {
+  var result = (number1+number2)
+  console.log("Your resut is this",result)
+}
+var num1 =+ prompt("enter a value 1")
+var num2 =+ prompt("enter a value 2")
+
+sum(num1, num2)
