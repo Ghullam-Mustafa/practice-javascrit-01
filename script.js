@@ -191,15 +191,15 @@
 // write js programme , input number from user 
 
 
-function name(a, b) {
-  var evenOdd = prompt("Enter a VAlue")
- if (evenOdd %2 == 0) {
-     console.log("your number is even")
-  }
-else {
-  console.log("your number is odd")
-}
-  }
+// function name(a, b) {
+//   var evenOdd =+ prompt("Enter a VAlue")
+//  if (evenOdd %2 == 0) {
+//      console.log("your number is even")
+//   }
+// else {
+//   console.log("your number is odd")
+// }
+//   }
 
-name()
+// name()
 
