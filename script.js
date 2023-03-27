@@ -227,4 +227,6 @@ addNumbers(30,50)
 
 function addNumbers(a,b){
   var result = (a+b) 
+  console.log("two numbers sum is", result);
+}
 // addNumbers(a,)
