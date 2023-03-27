@@ -229,4 +229,5 @@ function addNumbers(a,b){
   var result = (a+b) 
   console.log("two numbers sum is", result);
 }
+addNumbers(5,10)
 // addNumbers(a,)
