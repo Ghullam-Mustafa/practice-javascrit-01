@@ -238,3 +238,4 @@ function addNumbers(a,b){
    console.log("two numbers sum is", result);
 } 
 addNumbers(5,10)
+addNumbers(25,10)
