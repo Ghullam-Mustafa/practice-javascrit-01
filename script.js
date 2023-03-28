@@ -234,4 +234,6 @@ addNumbers(25,10)
 addNumbers(30,50)
 // addNumbers(a,)
 function addNumbers(a,b){
-  var result = (a+b) 
+  var result = (a+b)
+   console.log("two numbers sum is", result);
+} 
