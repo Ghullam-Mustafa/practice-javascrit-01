@@ -307,3 +307,4 @@ prompt("Enter first value")
 
 prompt("Enter first value")
 prompt("Enter second value")
+prompt("Enter third value")
