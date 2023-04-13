@@ -12,6 +12,9 @@ function rightClick() {
   document.getElementById('picture2').style.display= "none"
 }
 
+var anyVari =+ "fajfhdf"
+console.log(typeof(anyVari)); 
+
 function temperature() {
   var tempCelsius =+ prompt("enter celsious temperature");
   var tempFahrenheit = ( tempCelsius * 9/5) + 32;
