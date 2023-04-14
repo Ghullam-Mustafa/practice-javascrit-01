@@ -22,3 +22,8 @@ function temperature() {
   console.log(`Temperator in fahrenheit is this ${tempFahrenheit} `);
 }
 temperature()
+
+var num1 = 9
+var num2 = 88
+
+console.log(`${num1} is less than is ${num2}`, num1 < num2);
