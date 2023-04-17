@@ -79,7 +79,12 @@
 //   console.log("5 and 11 are not dividesible");
 // }
 
-for (let index = 0; index < 10 ; index++) {
+// for (let index = 0; index < 10 ; index++) {
 
-  console.log("fassd");
-}
+//   console.log("fassd");
+// }
+var i = 11
+do {
+  console.log("ajha" , i) ;
+  i++
+} while (i < 10);
