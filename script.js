@@ -106,3 +106,5 @@ var num1 = [1,2,3,4,5,6,7,8,9]
 
 num1.push(525)
 console.log("arry loop", num1);
+num1.splice(1,1,0)
+console.log("arry loop", num1);
