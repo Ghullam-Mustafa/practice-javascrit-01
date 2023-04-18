@@ -83,8 +83,26 @@
 
 //   console.log("fassd");
 // }
-var i = 11
-do {
-  console.log("ajha" , i) ;
-  i++
-} while (i < 10);
+// var i = 11
+// do {
+//   console.log("ajha" , i) ;
+//   i++
+// } while (i < 10);,8
+
+// var numbers = [1,2,3,4,5,6,7]
+// console.log("var number3" ,numbers[3]);
+// for (let index = 0; index < numbers.length; index++) {
+//   console.log("index",index);
+//   console.log("fsdda",numbers[index]);
+  
+// }
+
+var num1 = [1,2,3,4,5,6,7,8,9]
+// for (let index = 0; index < 10; index++) {
+//   console.log("index",index);
+//   console.log("arry loop", num1[index]);
+  
+// }
+
+num1.push(525)
+console.log("arry loop", num1);
