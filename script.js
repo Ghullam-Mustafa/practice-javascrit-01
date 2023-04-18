@@ -108,6 +108,10 @@ var num1 = [1,2,3,4,5,6,7,8,9]
 // console.log("arry loop", num1);
 // num1.splice(1,1,0)
 // console.log("arry loop", num1);
-console.log("after",num1);
-var newOew = num1.slice(2,4)
-console.log("arry loop", newOew);
+// console.log("after",num1);
+// var newOew = num1.slice(2,4)
+// console.log("arry loop", newOew);\
+
+var newDate = new Date()
+var currentYear = newDate.getUTCMinutes()
+console.log("newdate",currentYear*6);
