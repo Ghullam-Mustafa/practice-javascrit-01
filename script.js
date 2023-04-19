@@ -94,14 +94,14 @@
 // for (let index = 0; index < numbers.length; index++) {
 //   console.log("index",index);
 //   console.log("fsdda",numbers[index]);
-  
+
 // }
 
-var num1 = [1,2,3,4,5,6,7,8,9]
+var num1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 // for (let index = 0; index < 10; index++) {
 //   console.log("index",index);
 //   console.log("arry loop", num1[index]);
-  
+
 // // }
 
 // num1.push(525)
@@ -115,9 +115,24 @@ var num1 = [1,2,3,4,5,6,7,8,9]
 // var newDate = new Date()
 // var currentYear = newDate.getUTCMinutes()
 // console.log("newdate",currentYear*6);
-var currentDate = new Date();
-var dddd = currentDate.getDay();
-var days = ['sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday']
+// var currentDate = new Date();
+// var dddd = currentDate.getDay();
+// var days = ['sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday']
 
-  console.log("days" , days[dddd]);
+//   console.log("days" , days[dddd]);
+
+
+// write a js programme for show hows months
+
+var newDate = new Date();
+var currentDate = newDate.getDate()
+var currentTime = newDate.getHours()
+var currentMinuts = newDate.getMinutes()
+var currentSeconds = newDate.getSeconds()
+var cureentDay = newDate.getUTCDay()
+var cureentYear = newDate.getFullYear()
+var crunnentMounths = newDate.getMonth();
+var days = ['sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
+var months = ['Jan', 'Feb', 'mar', 'april', 'may', 'june', 'july', 'aug', 'sep', 'ouct', 'nov', 'dec']
+console.log('mounths', months[crunnentMounths], '/', days[cureentDay], '/', currentDate, '/', cureentYear, '/', currentTime, '/', currentMinuts,'/', currentSeconds, '/');
 
