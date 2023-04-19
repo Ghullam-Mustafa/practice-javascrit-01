@@ -136,8 +136,19 @@ var num1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 // var months = ['Jan', 'Feb', 'mar', 'april', 'may', 'june', 'july', 'aug', 'sep', 'ouct', 'nov', 'dec']
 // console.log('mounths', months[crunnentMounths], '/', days[cureentDay], '/', currentDate, '/', cureentYear, '/', currentTime, '/', currentMinuts,'/', currentSeconds, '/');
 
-var string = "Hi i am mustafa"
-var length = string.length
-console.log("length",length);
-var slice = string.slice(3,4)
+// var string = "Hi i am mustafa"
+// var length = string.length
+// console.log("length",length);
+// var slice = string.slice(3,4)
+// console.log("slice",slice);
+
+// write a js programme pakistan from I love, pakistan 
+var words = "I love, pakistan"
+var pakistan = words.length
+console.log("length",pakistan);
+var slice = words.slice(7,16)
 console.log("slice",slice);
+var replace = words.replace("pakistan","PAkistan")
+console.log("pakistan",replace);
+var upperCase = words.toLocaleUpperCase()
+console.log("uppercase",upperCase);
