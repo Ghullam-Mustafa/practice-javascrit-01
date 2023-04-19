@@ -112,6 +112,12 @@ var num1 = [1,2,3,4,5,6,7,8,9]
 // var newOew = num1.slice(2,4)
 // console.log("arry loop", newOew);\
 
-var newDate = new Date()
-var currentYear = newDate.getUTCMinutes()
-console.log("newdate",currentYear*6);
+// var newDate = new Date()
+// var currentYear = newDate.getUTCMinutes()
+// console.log("newdate",currentYear*6);
+var currentDate = new Date();
+var dddd = currentDate.getDay();
+var days = ['sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday']
+
+  console.log("days" , days[dddd]);
+
