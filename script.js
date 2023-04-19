@@ -124,15 +124,20 @@ var num1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 // write a js programme for show hows months
 
-var newDate = new Date();
-var currentDate = newDate.getDate()
-var currentTime = newDate.getHours()
-var currentMinuts = newDate.getMinutes()
-var currentSeconds = newDate.getSeconds()
-var cureentDay = newDate.getUTCDay()
-var cureentYear = newDate.getFullYear()
-var crunnentMounths = newDate.getMonth();
-var days = ['sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
-var months = ['Jan', 'Feb', 'mar', 'april', 'may', 'june', 'july', 'aug', 'sep', 'ouct', 'nov', 'dec']
-console.log('mounths', months[crunnentMounths], '/', days[cureentDay], '/', currentDate, '/', cureentYear, '/', currentTime, '/', currentMinuts,'/', currentSeconds, '/');
+// var newDate = new Date();
+// var currentDate = newDate.getDate()
+// var currentTime = newDate.getHours()
+// var currentMinuts = newDate.getMinutes()
+// var currentSeconds = newDate.getSeconds()
+// var cureentDay = newDate.getUTCDay()
+// var cureentYear = newDate.getFullYear()
+// var crunnentMounths = newDate.getMonth();
+// var days = ['sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
+// var months = ['Jan', 'Feb', 'mar', 'april', 'may', 'june', 'july', 'aug', 'sep', 'ouct', 'nov', 'dec']
+// console.log('mounths', months[crunnentMounths], '/', days[cureentDay], '/', currentDate, '/', cureentYear, '/', currentTime, '/', currentMinuts,'/', currentSeconds, '/');
 
+var string = "Hi i am mustafa"
+var length = string.length
+console.log("length",length);
+var slice = string.slice(3,4)
+console.log("slice",slice);
