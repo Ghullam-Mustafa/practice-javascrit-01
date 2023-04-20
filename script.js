@@ -158,3 +158,5 @@ var string1 ="I love";
 var string2 ="Pakistan";
 var cancat = string1.concat(string2)
 console.log("cancat",cancat);
+var trim = string1.trim()
+console.log("trim",trim);
