@@ -143,12 +143,18 @@ var num1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 // console.log("slice",slice);
 
 // write a js programme pakistan from I love, pakistan 
-var words = "I love, pakistan"
-var pakistan = words.length
-console.log("length",pakistan);
-var slice = words.slice(7,16)
-console.log("slice",slice);
-var replace = words.replace("pakistan","PAkistan")
-console.log("pakistan",replace);
-var upperCase = words.toLocaleUpperCase()
-console.log("uppercase",upperCase);
+// var words = "I love, pakistan"
+// var pakistan = words.length
+// console.log("length",pakistan);
+// var slice = words.slice(7,16)
+// console.log("slice",slice);
+// var replace = words.replace("pakistan","PAkistan")
+// console.log("pakistan",replace);
+// var upperCase = words.toLocaleUpperCase()
+// console.log("uppercase",upperCase);
+
+// cancat 
+var string1 ="I love";
+var string2 ="Pakistan";
+var cancat = string1.concat(string2)
+console.log("cancat",cancat);
