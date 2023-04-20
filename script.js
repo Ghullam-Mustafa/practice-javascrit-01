@@ -162,5 +162,14 @@ var num1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 // console.log("trim",trim);
 
 // split 
-var split = "i love pakistan"
-console.log("split",split.split(";"));
+// var split = "i love pakistan"
+// console.log("split",split.split(";"));
+
+// var number = "1,2,3,4,5,6,7,8,9"
+// var numbers = number.split(",")
+// for (let index = 0; index < numbers.length; index++) {
+//     const element = numbers[index];
+//     console.log("sds",parseInt(element));
+// }
+// console.log("numbers",numbers);
+
