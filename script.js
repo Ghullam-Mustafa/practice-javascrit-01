@@ -154,9 +154,13 @@ var num1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 // console.log("uppercase",upperCase);
 
 // cancat 
-var string1 ="I love";
-var string2 ="Pakistan";
-var cancat = string1.concat(string2)
-console.log("cancat",cancat);
-var trim = string1.trim()
-console.log("trim",trim);
+// var string1 ="I love";
+// var string2 ="Pakistan";
+// var cancat = string1.concat(string2)
+// console.log("cancat",cancat);
+// var trim = string1.trim()
+// console.log("trim",trim);
+
+// split 
+var split = "i love pakistan"
+console.log("split",split.split(";"));
