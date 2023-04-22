@@ -181,12 +181,39 @@ var num1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 // assdf()
 
 // Car 
-var  carObj = {
-    key : 'keyless entry',
-    color: 'Blue',
-    seats: 5,
-    engine:3215,
+// var  carObj = {
+//     key : 'keyless entry',
+//     color: 'Blue',
+//     seats: 5,
+//     engine:3215,
 
+// }
+// carObj.color = 'red'
+// console.log(Object.keys(carObj));
+// console.log(Object.values(carObj));
+
+
+// var number=[1,2,3,4,5,6,7,8,9]
+// var newNumbers = []
+// for (let index = 0; index < number.length; index++) {
+//     const element = number[index];
+//     newNumbers.push(element*2)
+// }
+// // c000onsole.log(newNumbers);
+
+// array.forEach((element , index ) => {
+//     console.log("element", element ,"index",index);
+// });
+
+
+var num1 = [1,2,3,4,5,6,7,8,9,]
+var num2= []
+for (let index = 0; index < num1.length; index++) {
+    const element = num1[index];
+    num2.push(element*2)
 }
-carObj.color = 'red'
-console.log(Object.keys(carObj));
+console.log("num",num2);
+
+num1.forEach((element,index)=> {
+    console.log("element",element,"index",index);
+});
