@@ -173,9 +173,20 @@ var num1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 // }
 // console.log("numbers",numbers);
 
-function assdf() {
-    var avi = 5>3
-    console.log("avi",avi);
+// function assdf() {
+//     var avi = 5>3
+//     console.log("avi",avi);
+
+// }
+// assdf()
+
+// Car 
+var  carObj = {
+    key : 'keyless entry',
+    color: 'Blue',
+    seats: 5,
+    engine:3215,
 
 }
-assdf()
+carObj.color = 'red'
+console.log(Object.keys(carObj));
