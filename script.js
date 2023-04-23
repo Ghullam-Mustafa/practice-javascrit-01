@@ -221,7 +221,7 @@ var num1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 // console.log("FDf",one);
 
 
-var two =num1.filter((element,index) => element >= 5)
+// var two =num1.filter((element,index) => elegit 
 
 console.log("Filter",two);
 
