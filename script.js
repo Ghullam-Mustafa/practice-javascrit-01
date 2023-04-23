@@ -206,14 +206,22 @@ var num1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 // });
 
 
-var num1 = [1,2,3,4,5,6,7,8,9,]
-var num2= []
-for (let index = 0; index < num1.length; index++) {
-    const element = num1[index];
-    num2.push(element*2)
-}
-console.log("num",num2);
+// var num1 = [1,2,3,4,5,6,7,8,9,]
+// var num2= []
+// for (let index = 0; index < num1.length; index++) {
+//     const element = num1[index];
+//     num2.push(element*2)
+// }
+// console.log("num",num2);
 
-num1.forEach((element,index)=> {
+var one =num1.map((element,index)=> {
     console.log("element",element,"index",index);
+    return element*2
 });
+console.log("FDf",one);
+
+
+var two =num1.filter((element,index) => element >= 5)
+
+console.log("Filter",two);
+
