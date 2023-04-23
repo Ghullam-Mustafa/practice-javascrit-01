@@ -218,7 +218,7 @@ var num1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 //     console.log("element",element,"index",index);
 //     return element*2
 // });
-console.log("FDf",one);
+// console.log("FDf",one);
 
 
 var two =num1.filter((element,index) => element >= 5)
